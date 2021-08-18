@@ -1,0 +1,3 @@
+echo "whats your name"
+read $name
+echo "name"
